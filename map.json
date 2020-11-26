@@ -359,7 +359,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=h7UqvALMONs&t=10s"
+                 "value":"https:\/\/www.youtube.com\/embed\/h7UqvALMONs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -377,7 +377,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=au2hFL2FLl8"
+                 "value":"https:\/\/www.youtube.com\/embed\/roe4AgtyTTk"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -395,7 +395,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=roe4AgtyTTk"
+                 "value":"https:\/\/www.youtube.com\/embed\/au2hFL2FLl8"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -413,7 +413,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workadventu.re"
+                 "value":"https:\/\/www.youtube.com\/embed\/bLm9_QfH7XQ"
                 }],
          "type":"tilelayer",
          "visible":true,
