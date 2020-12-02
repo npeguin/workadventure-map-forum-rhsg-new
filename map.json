@@ -16,7 +16,7 @@
          "name":"base",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -39,7 +39,7 @@
                  "value":"sponsor"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -62,7 +62,7 @@
                  "value":"sponsor"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -85,7 +85,7 @@
                  "value":"sponsor"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -108,7 +108,7 @@
                  "value":"sponsor"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -131,7 +131,7 @@
                  "value":"sponsor"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
                  "value":"sponsor"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -177,7 +177,7 @@
                  "value":"sponsor"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -200,7 +200,7 @@
                  "value":"sponsor"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -218,7 +218,7 @@
                  "value":"https:\/\/sgmarkets.typeform.com\/to\/OCoq0sJB"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -236,7 +236,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/KxqqQoyRvVE"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -254,7 +254,7 @@
                  "value":"https:\/\/play.vidyard.com\/d11ELRa2W4pTTThSMRtth7.html?"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -272,7 +272,7 @@
                  "value":"https:\/\/www.societegenerale.com\/en\/news\/newsroom\/interview-with-marion-cabrol"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -290,7 +290,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/KxL453irXgc"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -308,7 +308,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/8Qo0JUglMpQ"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -326,7 +326,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLO28QHeP4SE45Kd1Ea9qFw1XKQlo2QOmm"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -338,7 +338,7 @@
          "name":"rooms",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -350,7 +350,7 @@
          "name":"specialTiles",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -362,7 +362,7 @@
          "name":"gardenBase",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -374,7 +374,7 @@
          "name":"gardenFountain",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -386,7 +386,7 @@
          "name":"garden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -398,7 +398,7 @@
          "name":"gardenTop",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -410,7 +410,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -422,7 +422,7 @@
          "name":"entrance",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -434,7 +434,7 @@
          "name":"carpet",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -452,7 +452,7 @@
                  "value":"https:\/\/content.sgmarkets.com\/SGCIB_INTERNSHIPS_AI_LAB"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -464,7 +464,7 @@
          "name":"banners",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -500,7 +500,7 @@
                  "value":"https:\/\/poolside.fm\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -512,7 +512,7 @@
          "name":"decor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -524,7 +524,7 @@
          "name":"tableDecor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -536,7 +536,7 @@
          "name":"equip",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -548,7 +548,7 @@
          "name":"balloons",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -560,7 +560,7 @@
          "name":"food",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -572,7 +572,7 @@
          "name":"signages",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -584,7 +584,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -595,7 +595,7 @@
          "name":"hover",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -976,7 +976,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
